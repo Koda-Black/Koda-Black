@@ -1,8 +1,8 @@
 # Hi, I'm Onuorah Kingsley | Full-Stack Developer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
 
-Experienced Backend Developer with over 4 years of expertise in server-side logic, database management, and high-performance applications. Proficient in Node.js, MongoDB, and AI interactions. Skilled in RESTful APIs, microservices, and Docker.
+Full-Stack Developer with 4+ years of experience in building high-performance applications, managing databases, and handling both client-side and server-side logic. Proficient in Node.js, MongoDB, and AI integrations, with expertise in RESTful APIs, microservices, and Docker. Passionate about scalable architecture and seamless user experiences.
 
-Beyond coding, I contribute to open-source blockchain projects (Starknet, Stella, etc.).
+Beyond coding, I contribute to open-source blockchain projects built on (Starknet, Stella, etc.).
 
 ---
 
