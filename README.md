@@ -1,4 +1,4 @@
-# Hi, I'm Onuorah Kingsley | Full-Stack Developer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+# Hi, I'm Onuorah Kingsley | Full-Stack Developer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
 
 Experienced Backend Developer with over 4 years of expertise in server-side logic, database management, and high-performance applications. Proficient in Node.js, MongoDB, and AI interactions. Skilled in RESTful APIs, microservices, and Docker.
 
@@ -6,61 +6,72 @@ Beyond coding, I contribute to open-source blockchain projects (Starknet, Stella
 
 ---
 
-### 🏆 GitHub Stats  
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Koda-Black&show_icons=true&theme=radical)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Koda-Black&theme=dark)](https://git.io/streak-stats)
+### 🏆 GitHub Achievements
+<a href="https://github.com/Koda-Black?achievement=pull-shark&tab=achievements">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="100" alt="Pull Shark Achievement">
+</a>
 
 ---
 
-### 🛠️ Skills  
-#### **Languages**  
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
-- [TypeScript](https://www.typescriptlang.org/)  
-- [Python](https://www.python.org/)  
+### 🛠️ Tech Stack
+**Languages**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" title="TypeScript" />
 
-#### **Frontend**  
-- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)  
-- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)  
-- [React](https://reactjs.org/)  
-- [Vite](https://vitejs.dev/)  
-- [Tailwind CSS](https://tailwindcss.com/)  
+**Frontend**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" title="Next.js" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="40" title="Vite" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" title="Tailwind CSS" />
 
-#### **Backend**  
-- [Node.js](https://nodejs.org/)  
-- [NestJS](https://nestjs.com/)  
-- [Express](https://expressjs.com/)  
+**Backend**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" title="Node.js" />
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
+<img src="https://api.iconify.design/logos/nestjs.svg" width="40" title="NestJS" />
 
-#### **Mobile**  
-- [React Native](https://reactnative.dev/)  
+**Mobile**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React Native" />
 
-#### **Databases**  
-- [MongoDB](https://www.mongodb.com/)  
-- [PostgreSQL](https://www.postgresql.org/)  
+**Databases**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" title="MongoDB" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL" />
 
-#### **Tools**  
-- [Git](https://git-scm.com/)  
-- [Docker](https://www.docker.com/)  
-- [Firebase](https://firebase.google.com/)  
+**Tools**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Docker" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" title="Firebase" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="40" title="Jest" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" title="Postman" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" width="40" title="Swagger" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="40" title="Material UI" />
 
-#### **Design**  
-- [Figma](https://www.figma.com/)  
-- [Canva](https://www.canva.com/)  
+**Design**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" title="Figma" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40" title="Canva" />
 
 ---
 
 ### 🌱 Currently Learning  
-- [Go](https://go.dev/)  
-- [Cairo](https://www.cairo-lang.org/)  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" title="Go" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cairo/cairo-original.svg" width="40" title="Cairo" />
 
 ---
 
-### 📫 Connect With Me  
-- [LinkedIn](https://www.linkedin.com/in/kodablack/)  
-- [GitHub](https://github.com/Koda-Black)  
-- [Email](mailto:kodablack.me@outlook.com)  
+### 🌐 Socials
+<a href="https://linkedin.com/in/kodablack"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" title="LinkedIn" /></a>
+<a href="https://github.com/Koda-Black"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub" /></a>
+<a href="mailto:kodablack.me@outlook.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" title="Email" /></a>
 
 ---
 
 ### 🎉 Fun Fact  
-⚽ Football lover | 🏊‍♂️ Swimmer | 🏃‍♂️ Marathon runner  
+⚽ Football lover | 🏊‍♂️ Swimmer | 🏃‍♂️ Marathon runner
+
+---
+
+### 📊 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Koda-Black&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Koda-Black&layout=compact&theme=radical)
