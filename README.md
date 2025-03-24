@@ -6,12 +6,12 @@ Beyond coding, I contribute to open-source blockchain projects (Starknet, Stella
 
 ---
 
-### 🏆 GitHub Achievements
-<a href="https://github.com/Koda-Black?achievement=pull-shark&tab=achievements">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="100" alt="Pull Shark Achievement">
-</a>
+- 🌍 I work remotely  
+- ✉️ You can contact me at [onuorah.kingsley@outlook.com](mailto:onuorah.kingsley@outlook.com)  
+- 🌱 I'm learning Go and Cairo  
+- 🤝 I'm open to collaborating on any interesting projects  
+- ⚽ Football lover | 🏊‍♂️ Swimmer | 🏃‍♂️ Marathon runner  
 
----
 
 ### 🛠️ Tech Stack
 **Languages**  
@@ -53,23 +53,19 @@ Beyond coding, I contribute to open-source blockchain projects (Starknet, Stella
 
 ---
 
-### 🌱 Currently Learning  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" title="Go" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cairo/cairo-original.svg" width="40" title="Cairo" />
+### 🏆 GitHub Achievements
+<a href="https://github.com/Koda-Black?achievement=pull-shark&tab=achievements">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="100" alt="Pull Shark Achievement">
+</a>
 
 ---
 
 ### 🌐 Socials
 <a href="https://linkedin.com/in/kodablack"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" title="LinkedIn" /></a>
-<a href="https://github.com/Koda-Black"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub" /></a>
-<a href="mailto:kodablack.me@outlook.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" title="Email" /></a>
+<a href="https://x.com/ark_jesuit"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/x.svg" width="40" style="background: #000; padding: 5px; border-radius: 7px; filter: invert(1);" title="X (Twitter)" /></a>
 
 ---
 
-### 🎉 Fun Fact  
-⚽ Football lover | 🏊‍♂️ Swimmer | 🏃‍♂️ Marathon runner
-
----
 
 ### 📊 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Koda-Black&show_icons=true&theme=radical)
